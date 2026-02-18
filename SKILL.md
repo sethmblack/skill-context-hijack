@@ -3,8 +3,9 @@ name: context-hijack
 description: Choose optimal placement for messages, content, or interventions by evaluating context resonance, audience access, permanence, risk, and spreadability—making location itself part of the message.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3674
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - context-hijack
 - transformation
